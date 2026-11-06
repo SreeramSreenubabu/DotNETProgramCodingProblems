@@ -9,7 +9,7 @@ namespace DotNETProgramCodingProblems.StringProblems
     public class StringPolindrome
     {
 		///<summary>
-		///The Given String is equl to the reverse of that string
+		///The Given String is equal to the reverse of that string
 		/// </summary>
         
 		//public static void Main(string[] Args)
