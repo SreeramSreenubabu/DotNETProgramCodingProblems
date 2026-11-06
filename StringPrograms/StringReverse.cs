@@ -9,7 +9,7 @@ namespace DotNETProgramCodingProblems.StringPrograms
     public class StringReverse
     {
         ///<summary>
-        ///Making givin string reverse
+        ///Making given string reverse
         /// </summary>
 
         //public static void Main(string[] Args)
